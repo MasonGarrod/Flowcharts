@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JSjSHIye_wGC4dCE1tIP-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SO7u0gcXOYJqLn8CldQe-1" value="&lt;div&gt;&amp;nbsp;1.Initalize game board&lt;/div&gt;&lt;div&gt;2. Bots turn &lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Generate all possible moves for bot&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evaluate response from human (Minimax)&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Return best possible score&lt;/div&gt;&lt;div&gt;6. Choose the best move&lt;/div&gt;&lt;div&gt;7. Place piece and update game state&lt;/div&gt;&lt;div&gt;8. Check game end condition &lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Human turn - loop &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="11" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SO7u0gcXOYJqLn8CldQe-2" value="&lt;div&gt;board = empty_board&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
